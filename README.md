@@ -22,5 +22,5 @@ requirements
 
 <img src="https://pbs.twimg.com/media/E84X1GaWUAAJS43?format=png&name=900x900">
 
-## twitter: kira_321k
+## twitter: <a href="https://twitter.com/kira_321k">kira_321k</a>
 
